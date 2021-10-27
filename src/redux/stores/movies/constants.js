@@ -1,0 +1,1 @@
+export const GET_ALL_POPULAR_MOVIES = 'Movies/GET_ALL_POPULAR_MOVIES';
